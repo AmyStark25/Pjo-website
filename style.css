@@ -1,0 +1,67 @@
+body {
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+.images {
+    height: 300px;
+    width: 200px;
+
+}
+
+h1 {
+    color: #33107d;
+    font-family: 'Fuggles' , cursive;
+    font-size: 55px;
+    line-height: 1.5;
+    
+}
+
+#pjo1 {
+    height: 300px;
+    width: 200px:
+}
+
+.menu{
+
+list-style: none;
+font-family: 'Lobster', cursive;
+position: absolute;
+right: 35px;
+top: 12.5px;
+z-index: 10px ;
+cursor: pointer;
+}
+
+#Welcome{
+    position:center;
+    height: 400px;
+    text-align:center;
+    display: table;
+    width:80%;
+    padding-left:200px;
+    padding-bottom:30px;
+  align-content: center;
+    z-index: 10;
+} 
+.link{
+    float: left;
+    color: paleturquoise;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 300px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 105px;
+}
+.link:hover{
+    background-color: black;
+    
+}
+
+
+ul{
+    font-size: 30px;
+    
+    
+}
